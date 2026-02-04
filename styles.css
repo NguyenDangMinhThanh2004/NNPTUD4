@@ -1,0 +1,4 @@
+body { background: #f8f9fa; }
+.thumb { width: 60px; height: 60px; object-fit: cover; border-radius: 4px; }
+.sortable { cursor: pointer; user-select: none; }
+.hover-desc { /* no explicit style; title attribute shows description on hover */ }
